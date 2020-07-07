@@ -1,0 +1,6 @@
+# Byte-complied / optimized / DLL files
+__pycache__/
+.idea
+
+# Environments
+venv/
